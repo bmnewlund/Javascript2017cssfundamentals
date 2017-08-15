@@ -1,0 +1,31 @@
+.customDiv {
+	margin: 20px;
+	font-size: 24px;
+	padding: 10px;
+	width: 50%;
+}
+
+.secondDiv {
+	border: 10px solid blue;
+	margin: 20px;
+	font-size: 24px;
+	padding: 10px;
+	width: 50%;
+	background-color: gray;
+}
+
+.listDiv {
+	border: 10px solid blue;
+	margin: 20px;
+	font-size: 24px;
+	padding: 10px;
+	width: 50%;
+	background-color: gray;
+}
+
+.colorList {
+	color: green;
+}
+.goldDiv {
+	color: blue;
+}
